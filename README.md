@@ -1,7 +1,7 @@
-# Heracles---Exoskeleton-s-leg
-Exoskeleton's joint leg study - code and realisation information
+# Heracles
+This project has been acheived for the 4th year of Engineering School in Paris "ESME Sudria" . This project containes the embedded system source Code in C and the report. Project Héraclès, is a collaborative project for an exoskeleton designed for individuals who have control over all their muscles, was born from the idea of creating an improved version of Project Hercule. This excerpt focuses on the knee joint of the project. The "Project 2M03 V2 Report" contains a description of the project, from mechanics to electronics and code. However, the conclusion and improvement axes are missing from this version of the report.
 
-Text in french, please use: https://translate.google.com/?hl=fr , the result is somewhat convincing.
+The exoskeleton's leg bends when the user's upper thigh muscle contracts and opens when the user's muscle relaxes. User safety has been ensured through both hardware and software control of the leg's position. Limit switches have been strategically placed to prevent any measurement errors from the accelerometer and to stop movement in case of any issues.
 
 <div style="text-align:center">
  <p align="center">
